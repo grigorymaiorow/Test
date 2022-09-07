@@ -1,0 +1,15 @@
+/Users/grigorij/Desktop/Контрольная_работа/Work/bin/Debug/net6.0/Work
+/Users/grigorij/Desktop/Контрольная_работа/Work/bin/Debug/net6.0/Work.deps.json
+/Users/grigorij/Desktop/Контрольная_работа/Work/bin/Debug/net6.0/Work.runtimeconfig.json
+/Users/grigorij/Desktop/Контрольная_работа/Work/bin/Debug/net6.0/Work.dll
+/Users/grigorij/Desktop/Контрольная_работа/Work/bin/Debug/net6.0/Work.pdb
+/Users/grigorij/Desktop/Контрольная_работа/Work/obj/Debug/net6.0/Work.csproj.AssemblyReference.cache
+/Users/grigorij/Desktop/Контрольная_работа/Work/obj/Debug/net6.0/Work.GeneratedMSBuildEditorConfig.editorconfig
+/Users/grigorij/Desktop/Контрольная_работа/Work/obj/Debug/net6.0/Work.AssemblyInfoInputs.cache
+/Users/grigorij/Desktop/Контрольная_работа/Work/obj/Debug/net6.0/Work.AssemblyInfo.cs
+/Users/grigorij/Desktop/Контрольная_работа/Work/obj/Debug/net6.0/Work.csproj.CoreCompileInputs.cache
+/Users/grigorij/Desktop/Контрольная_работа/Work/obj/Debug/net6.0/Work.dll
+/Users/grigorij/Desktop/Контрольная_работа/Work/obj/Debug/net6.0/refint/Work.dll
+/Users/grigorij/Desktop/Контрольная_работа/Work/obj/Debug/net6.0/Work.pdb
+/Users/grigorij/Desktop/Контрольная_работа/Work/obj/Debug/net6.0/Work.genruntimeconfig.cache
+/Users/grigorij/Desktop/Контрольная_работа/Work/obj/Debug/net6.0/ref/Work.dll
